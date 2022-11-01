@@ -48,5 +48,3 @@ newArray.push(20)
 newArray.push(30)
 newArray.insert(1, 60)
 newArray.remove(1)
-
-console.log(newArray)
